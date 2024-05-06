@@ -1,7 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 Matrix type workflow for python testing 
- 
- 
+
 name: Python package
  
 on: [push]
